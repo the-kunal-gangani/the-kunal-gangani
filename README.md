@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d7377,100:14213d&height=220&section=header&text=Kunal%20Gangani&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20at%20the%20edge%20of%20Mobile%2C%20AI%20%26%20Security&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d7377,100:14213d&height=220&section=header&text=Kunal%20Gangani&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20at%20the%20edge%20of%20Mobile%2C%20AI%20%2B%20Security&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=2EE6D6&center=true&vCenter=true&width=550&lines=You+can+breach+an+account...;...but+not+the+will+to+build.;Second+account.+Same+relentless+code." alt="Typing SVG" />
 
