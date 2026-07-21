@@ -1,92 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d7377,100:14213d&height=200&section=header&text=Kunal%20Gangani&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,20&height=220&section=header&text=Kunal%20Gangani&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20at%20the%20edge%20of%20Mobile%2C%20AI%20%26%20Security&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://github.com/the-kunal-gangani">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=AI+Enthusiast;Flutter+Developer;Cyber+Security+Explorer" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=2EE6D6&center=true&vCenter=true&width=550&lines=You+can+breach+an+account...;...but+not+the+will+to+build.;Second+account.+Same+relentless+code." alt="Typing SVG" />
 
 </div>
 
----
+<br>
 
-> **Note:** This is my active developer profile. My previous GitHub account was compromised and is no longer in use — all future work, contributions, and projects live here going forward.
+> 🔐 **A quick note before you scroll:** my previous GitHub account was compromised and shut down. This one is the rebuild — same person, same work ethic, cleaner setup. You can hack an account, but you can't hack the spirit that codes.
 
----
+<br>
 
-## Hi, I'm Kunal Gangani
+## Who's writing this code
 
-**Flutter Developer | AI Enthusiast | Cyber Security Explorer**
+I'm **Kunal** — an MCA student who ended up somewhere between three worlds: mobile engineering, applied AI, and offensive/defensive security. Most of what's below started as "can I actually build this myself" and turned into shipped, working software.
 
-> *"I don't just build apps — I craft experiences that feel effortless, intelligent, and secure."*
+I don't ship demos that only work on my machine. If it's in a repo here, it runs.
 
-🏆 Built **Nexora** for the Google AI Hackathon 2026 — live civic AI platform shipped in days.
+<br>
 
----
+## How I actually work
 
-## About Me
+| Principle | What it means in practice |
+|---|---|
+| 🏗️ Architecture before code | Clean layers, Riverpod/Bloc/GetX chosen deliberately, not by default |
+| 🔐 Security isn't a checkbox | Threat-model early — auth, encryption, honeypots, not bolted on later |
+| 🎯 Performance is a feature | If it lags, it's not done |
+| 🔁 Always mid-upgrade | Currently deep in system design, OWASP, and AI agent orchestration |
 
-I'm a passionate Flutter Developer and MCA student dedicated to turning complex ideas into smooth, high-performance mobile applications.
+<br>
 
-I focus on building apps that are **scalable, secure, and visually stunning**.
+## On the bench right now
 
-I work at the intersection of:
+**🛡️ DecoyShield** — an autonomous deception platform that lures, logs, and profiles real attackers in real time, with Claude-generated attack intelligence on top.
 
-- 📱 Mobile Development
-- 🤖 Artificial Intelligence
-- 🛡️ Cyber Security
-- ⚡ Real-time Systems
+**🏛️ Nexora** — an AI civic-agent platform that turns a citizen's complaint into a filed RTI request, built and shipped inside a hackathon sprint.
 
----
+<br>
 
-## My Development Philosophy
-
-- 🏗️ Clean Architecture First
-- 🎨 Pixel-Perfect UI/UX
-- ⚙️ Performance Matters
-- 🔐 Security by Design
-- 📚 Continuous Learning
-
----
-
-## Currently Building
-
-- 🛡️ **DecoyShield** — Autonomous cyber deception platform catching real attackers
-- 🏛️ **Nexora** — AI-powered civic intelligence platform
-
----
-
-## My Current Focus (2026)
-
-- Clean Architecture + DDD
-- Advanced State Management (Riverpod, Bloc, GetX)
-- UI & Animations (CustomPainter, Rive)
-- AI Features (Voice + Image AI)
-- Secure Backend Systems (Firebase, Supabase)
-
-## Currently Learning
-
-- Advanced Flutter Animations
-- System Design
-- Cyber Security (OWASP)
-- AI Agents
-
-## Cyber Security Interests
-
-- Ethical Hacking Basics
-- JWT, OAuth
-- API Security
-- Encryption
-
-**Goal:** Build secure-by-default applications
-
----
-
-## Daily Dev Tools
-
-`VS Code` • `Android Studio` • `Git` • `Postman` • `Figma`
-
-## Tech Stack
+## Stack I reach for
 
 <div align="center">
 
@@ -103,131 +56,116 @@ I work at the intersection of:
 
 </div>
 
----
+**Daily drivers:** VS Code · Android Studio · Git · Postman · Figma
 
-## What Makes Me Different?
+<br>
 
-- 🤖 AI-powered mobile apps
-- 🏗️ Strong architecture mindset
-- 🔐 Security + performance focused
-- 🚀 Real-world project experience
+## Currently sharpening
 
-## Why Hire Me?
+`Advanced Flutter Animations` `System Design` `OWASP / Ethical Hacking` `AI Agents` `JWT & OAuth` `API Security` `Encryption`
 
-- ✅ Production-ready apps
-- ✅ Clean scalable architecture
-- ✅ AI + mobile integration
-- ✅ Fast learner
+Long-term goal: build things that are **secure by default**, not secure by patch.
 
----
+<br>
 
-## Featured Projects
+## Why a team would want me on the roster
 
-### 🎙️ Vocal Lens
-**AI Voice Assistant with Real-Time Interaction**
-An intelligent assistant built with Flutter, bridging human speech and local/cloud AI.
+- Ships production-ready apps, not prototypes that need a rewrite
+- Thinks in architecture, not just features
+- Bridges AI + mobile + security — not siloed into one lane
+- Learns fast and doesn't wait to be handed the next skill
 
-**Key Features:**
-- Wake Word Detection: Hands-free activation using "Vocal Lens" (Picovoice Porcupine)
-- Hybrid AI: Offline chat via Google Gemma (1B IT) and cloud-based reasoning via Gemini 1.5 Pro
-- Creative Suite: AI image generation (Imagine AI) and voice-controlled YouTube streaming
-- Localization: Multi-language support (English, Hindi, Spanish, French, German, Dutch)
+<br>
 
-**Tech Stack:** Flutter, Firebase, Google Gemma/Gemini, Picovoice, FastAPI
+## Projects worth your time
 
----
+<details>
+<summary><b>🎙️ Vocal Lens</b> — AI voice assistant bridging speech and local/cloud reasoning</summary>
+<br>
 
-### 🎥 MotionBalance
-**AI-Powered Software Gimbal for Mobile Filmmakers**
-A cinematography tool that replaces physical hardware with sensor fusion and computer vision.
+- Wake-word hands-free activation via Picovoice Porcupine
+- Hybrid AI: offline Google Gemma (1B IT) + cloud Gemini 1.5 Pro fallback
+- AI image generation + voice-controlled YouTube playback
+- 6-language localization (EN, HI, ES, FR, DE, NL)
 
-**Key Features:**
-- Active Subject Tracking: Real-time face-locking via Google ML Kit offloaded to background isolates
-- Stabilization Pipeline: Uses a 1D Kalman Filter for roll/pitch estimation and shot classification (Dolly, Pan, Walk)
-- Pro Monitoring: False Color, Focus Peaking (Sobel edge detection), and 180° Shutter Rule enforcement
-- Sensor Fusion HUD: Live horizon leveler and stability intensity meters
+**Stack:** Flutter · Firebase · Gemma/Gemini · Picovoice · FastAPI
+</details>
 
-**Tech Stack:** Flutter, Riverpod, Google ML Kit, Kalman Filtering, Sensors Plus
+<details>
+<summary><b>🎥 MotionBalance</b> — software gimbal replacing physical stabilizer hardware</summary>
+<br>
 
----
+- Real-time face-lock tracking via Google ML Kit on background isolates
+- 1D Kalman Filter for roll/pitch stabilization + shot classification (Dolly, Pan, Walk)
+- False Color, Focus Peaking (Sobel edge detection), 180° Shutter Rule enforcement
+- Live horizon leveler and stability HUD
 
-### 🕵️ Qubrix
-**AI Risk Intelligence & Digital Exposure Platform**
-Evaluates vulnerability to deepfakes and voice cloning by mapping public digital footprints.
+**Stack:** Flutter · Riverpod · Google ML Kit · Kalman Filtering · Sensors Plus
+</details>
 
-**Key Features:**
-- Exposure Mapping: Analyzes public online channels to identify potential attack vectors
-- Impersonation Simulation: Generates quantified risk scores based on AI-driven attack simulations
-- Reporting: Actionable security hardening steps with automated saving to Notion
+<details>
+<summary><b>🕵️ Qubrix</b> — digital exposure & deepfake-risk intelligence platform</summary>
+<br>
 
-**Tech Stack:** Flutter, FastAPI (Python), Notion API, LLM Integration
+- Maps public digital footprint to surface impersonation attack vectors
+- AI-driven impersonation simulation with quantified risk scoring
+- Auto-generated hardening reports saved directly to Notion
 
----
+**Stack:** Flutter · FastAPI · Notion API · LLM Integration
+</details>
 
-### ⚡ EcoStar Pro
-**Smart Energy & Resource Management System**
-A cross-platform desktop suite for monitoring electricity, gas, and water consumption.
+<details>
+<summary><b>⚡ EcoStar Pro</b> — unified utility monitoring desktop suite</summary>
+<br>
 
-**Key Features:**
-- Unified Tracking: Real-time monitoring of all utilities in one dashboard
-- Consumption History: Granular data visualization for daily, weekly, and monthly trends
-- Predictive Optimization: Actionable tips for reducing costs and environmental impact
+- Real-time electricity, gas, and water tracking in one dashboard
+- Daily/weekly/monthly consumption visualization
+- Predictive tips for cutting cost and environmental impact
 
-**Tech Stack:** Python, Kivy (GUI), SQLite
+**Stack:** Python · Kivy · SQLite
+</details>
 
----
+<details>
+<summary><b>🛡️ DecoyShield</b> — autonomous cyber deception engine</summary>
+<br>
 
-### 🛡️ DecoyShield
-**Autonomous Cyber Deception Platform**
-Deploys fake servers, portals, and APIs to catch and profile real-world attackers in real time.
+- Multi-vector honeypots: fake SSH server, admin portal, REST endpoints
+- Captures attacker IP, geolocation, ISP, commands, and payloads live
+- AI-generated 0–100 threat scoring with plain-English attack summaries
+- Instant Discord alerting the moment a trap is triggered
 
-**Key Features:**
-- Multi-Vector Honeypots: Fake SSH server, fake admin login portal, and fake REST API endpoints
-- Live Threat Intelligence: Captures attacker IP, geolocation, ISP, commands, and payloads on every interaction
-- AI Risk Scoring: Automated 0–100 threat scoring with AI-generated plain-English attack summaries
-- Instant Alerting: Real-time Discord notifications the moment a honeypot is touched
+**Stack:** FastAPI · Next.js · Supabase · asyncssh · Anthropic Claude API
+</details>
 
-**Tech Stack:** FastAPI, Next.js, Supabase, asyncssh, Anthropic Claude API
+<details>
+<summary><b>🏛️ Nexora</b> — AI civic-agent platform</summary>
+<br>
 
----
+- Reasoning agents that walk citizens through civic processes
+- One-click RTI (Right to Information) request generation
+- Built to make public-information access genuinely usable
 
-### 🏛️ Nexora
-**Civic Intelligence Platform with AI Agents**
-An AI-driven web app that helps citizens navigate civic processes and generate RTI requests automatically.
+**Stack:** Next.js · FastAPI · LLM Integration · Vercel
+</details>
 
-**Key Features:**
-- AI Agents: Automated reasoning agents that assist with civic queries and document generation
-- RTI Generation: One-click generation of Right to Information requests tailored to the user's issue
-- Civic Transparency: Built to simplify access to public information for everyday citizens
+<details>
+<summary><b>🔌 Shivam Electricals ERP</b> — mobile ERP for small electrical businesses</summary>
+<br>
 
-**Tech Stack:** Next.js, FastAPI, LLM Integration, Vercel
+- Real-time inventory tracking and control
+- Integrated payment and employment/financial tracking
+- Role-Based Access Control (RBAC) for data integrity
 
----
+**Stack:** Flutter · Firebase (Firestore, Auth)
+</details>
 
-### 🔌 Shivam Electricals ERP
-**Mobile Business Management App**
-A Flutter-based mobile ERP for small to medium electrical businesses.
+<br>
 
-**Key Features:**
-- Inventory Control: Real-time stock tracking and management
-- Financial Tracking: Integrated payment and employment management
-- Security: Role-Based Access Control (RBAC) for data integrity
-
-**Tech Stack:** Flutter, Firebase (Firestore, Auth)
-
----
-
-## Activity Graph
+## The receipts
 
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=the-kunal-gangani&theme=react-dark&hide_border=true&bg_color=0d1117)
-
-</div>
-
-## GitHub Stats
-
-<div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=the-kunal-gangani&show_icons=true&theme=react&hide_border=true&bg_color=0d1117"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-kunal-gangani&layout=compact&theme=react&hide_border=true&bg_color=0d1117"/>
@@ -236,18 +174,15 @@ A Flutter-based mobile ERP for small to medium electrical businesses.
 
 </div>
 
----
+<br>
 
-## Current Goals
+## Where this is headed
 
-- 🤖 Build AI-powered apps
-- 🏗️ Master system design
-- 🌍 Contribute to open source
-- 🎯 Crack top dev role
+Building genuinely useful AI-powered software. Getting sharper at system design. Sending real pull requests to real open-source projects. And landing a role where all three lanes — mobile, AI, security — actually matter at once.
 
----
+<br>
 
-## Let's Connect!
+## Reach me
 
 <div align="center">
 
@@ -256,15 +191,14 @@ A Flutter-based mobile ERP for small to medium electrical businesses.
 
 </div>
 
----
+<br>
 
-## Fun Fact
+<div align="center">
 
-Old me: *"Why Doraemon?"*
-Me now: *"AI is my Doraemon."*
+*Old me: "Why Doraemon?" — New me: "AI is my Doraemon."*
 
-## Quote I Live By
+> **You can hack an account. You can't hack the spirit that codes.**
 
-> "Code is not just written — it is designed, engineered, and secured."
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14213d,100:0d7377&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,20&height=120&section=footer" width="100%"/>
