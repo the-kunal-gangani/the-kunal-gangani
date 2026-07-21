@@ -8,7 +8,7 @@
 
 <br>
 
-> 🔐 **A quick note before you scroll:** my previous GitHub account was compromised and shut down. This one is the rebuild — same person, same work ethic, cleaner setup. You can hack an account, but you can't hack the spirit that codes.
+> **A quick note before you scroll:** my previous GitHub account was compromised and shut down. This one is the rebuild same person, same work ethic, cleaner setup. You can hack an account, but you can't hack the spirit that codes.
 
 <br>
 
@@ -24,18 +24,18 @@ I don't ship demos that only work on my machine. If it's in a repo here, it runs
 
 | Principle | What it means in practice |
 |---|---|
-| 🏗️ Architecture before code | Clean layers, Riverpod/Bloc/GetX chosen deliberately, not by default |
-| 🔐 Security isn't a checkbox | Threat-model early — auth, encryption, honeypots, not bolted on later |
-| 🎯 Performance is a feature | If it lags, it's not done |
-| 🔁 Always mid-upgrade | Currently deep in system design, OWASP, and AI agent orchestration |
+| Architecture before code | Clean layers, Riverpod/Bloc/GetX chosen deliberately, not by default |
+| Security isn't a checkbox | Threat-model early — auth, encryption, honeypots, not bolted on later |
+| Performance is a feature | If it lags, it's not done |
+| Always mid-upgrade | Currently deep in system design, OWASP, and AI agent orchestration |
 
 <br>
 
 ## On the bench right now
 
-**🛡️ DecoyShield** — an autonomous deception platform that lures, logs, and profiles real attackers in real time, with Claude-generated attack intelligence on top.
+**DecoyShield** — an autonomous deception platform that lures, logs, and profiles real attackers in real time, with Claude-generated attack intelligence on top.
 
-**🏛️ Nexora** — an AI civic-agent platform that turns a citizen's complaint into a filed RTI request, built and shipped inside a hackathon sprint.
+**Nexora** — an AI civic-agent platform that turns a citizen's complaint into a filed RTI request, built and shipped inside a hackathon sprint.
 
 <br>
 
@@ -80,7 +80,7 @@ Long-term goal: build things that are **secure by default**, not secure by patch
 ## Projects worth your time
 
 <details>
-<summary><b>🎙️ Vocal Lens</b> — AI voice assistant bridging speech and local/cloud reasoning</summary>
+<summary><b> Vocal Lens</b> — AI voice assistant bridging speech and local/cloud reasoning</summary>
 <br>
 
 - Wake-word hands-free activation via Picovoice Porcupine
@@ -92,7 +92,7 @@ Long-term goal: build things that are **secure by default**, not secure by patch
 </details>
 
 <details>
-<summary><b>🎥 MotionBalance</b> — software gimbal replacing physical stabilizer hardware</summary>
+<summary><b> MotionBalance</b> — software gimbal replacing physical stabilizer hardware</summary>
 <br>
 
 - Real-time face-lock tracking via Google ML Kit on background isolates
@@ -104,7 +104,7 @@ Long-term goal: build things that are **secure by default**, not secure by patch
 </details>
 
 <details>
-<summary><b>🕵️ Qubrix</b> — digital exposure & deepfake-risk intelligence platform</summary>
+<summary><b> Qubrix</b> — digital exposure & deepfake-risk intelligence platform</summary>
 <br>
 
 - Maps public digital footprint to surface impersonation attack vectors
@@ -115,7 +115,7 @@ Long-term goal: build things that are **secure by default**, not secure by patch
 </details>
 
 <details>
-<summary><b>⚡ EcoStar Pro</b> — unified utility monitoring desktop suite</summary>
+<summary><b> EcoStar Pro</b> — unified utility monitoring desktop suite</summary>
 <br>
 
 - Real-time electricity, gas, and water tracking in one dashboard
@@ -126,7 +126,7 @@ Long-term goal: build things that are **secure by default**, not secure by patch
 </details>
 
 <details>
-<summary><b>🛡️ DecoyShield</b> — autonomous cyber deception engine</summary>
+<summary><b> DecoyShield</b> — autonomous cyber deception engine</summary>
 <br>
 
 - Multi-vector honeypots: fake SSH server, admin portal, REST endpoints
@@ -138,7 +138,7 @@ Long-term goal: build things that are **secure by default**, not secure by patch
 </details>
 
 <details>
-<summary><b>🏛️ Nexora</b> — AI civic-agent platform</summary>
+<summary><b> Nexora</b> — AI civic-agent platform</summary>
 <br>
 
 - Reasoning agents that walk citizens through civic processes
@@ -149,7 +149,7 @@ Long-term goal: build things that are **secure by default**, not secure by patch
 </details>
 
 <details>
-<summary><b>🔌 Shivam Electricals ERP</b> — mobile ERP for small electrical businesses</summary>
+<summary><b> Shivam Electricals ERP</b> — mobile ERP for small electrical businesses</summary>
 <br>
 
 - Real-time inventory tracking and control
@@ -195,7 +195,7 @@ Building genuinely useful AI-powered software. Getting sharper at system design.
 
 <div align="center">
 
-*Old me: "Why Doraemon?" — New me: "AI is my Doraemon."*
+*Rebuilt from zero, patched for everything they missed the first time.*
 
 > **You can hack an account. You can't hack the spirit that codes.**
 
