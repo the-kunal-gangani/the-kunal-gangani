@@ -2,13 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d7377,100:14213d&height=200&section=header&text=Kunal%20Gangani&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-![Profile views](https://komarev.com/ghpvc/?username=kunal-gangani&color=0d7377&style=flat-square&label=Profile+views)
-
-<a href="https://github.com/kunal-gangani">
+<a href="https://github.com/the-kunal-gangani">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=AI+Enthusiast;Flutter+Developer;Cyber+Security+Explorer" alt="Typing SVG" />
 </a>
 
 </div>
+
+---
+
+> **Note:** This is my active developer profile. My previous GitHub account was compromised and is no longer in use — all future work, contributions, and projects live here going forward.
 
 ---
 
@@ -219,7 +221,7 @@ A Flutter-based mobile ERP for small to medium electrical businesses.
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kunal-gangani&theme=react-dark&hide_border=true&bg_color=0d1117)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=the-kunal-gangani&theme=react-dark&hide_border=true&bg_color=0d1117)
 
 </div>
 
@@ -227,10 +229,10 @@ A Flutter-based mobile ERP for small to medium electrical businesses.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kunal-gangani&show_icons=true&theme=react&hide_border=true&bg_color=0d1117"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-gangani&layout=compact&theme=react&hide_border=true&bg_color=0d1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=the-kunal-gangani&show_icons=true&theme=react&hide_border=true&bg_color=0d1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-kunal-gangani&layout=compact&theme=react&hide_border=true&bg_color=0d1117"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kunal-gangani&theme=react&hide_border=true&background=0d1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=the-kunal-gangani&theme=react&hide_border=true&background=0d1117)
 
 </div>
 
@@ -249,17 +251,8 @@ A Flutter-based mobile ERP for small to medium electrical businesses.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunal-gangani)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunal-gangani)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/the-kunal-gangani)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thekunalgangani@gmail.com)
-
-</div>
-
-## Support My Work
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/kunalgangani)
 
 </div>
 
