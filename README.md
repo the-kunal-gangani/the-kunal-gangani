@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,20&height=220&section=header&text=Kunal%20Gangani&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20at%20the%20edge%20of%20Mobile%2C%20AI%20%26%20Security&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d7377,100:14213d&height=220&section=header&text=Kunal%20Gangani&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20at%20the%20edge%20of%20Mobile%2C%20AI%20%26%20Security&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=2EE6D6&center=true&vCenter=true&width=550&lines=You+can+breach+an+account...;...but+not+the+will+to+build.;Second+account.+Same+relentless+code." alt="Typing SVG" />
 
@@ -201,4 +201,4 @@ Building genuinely useful AI-powered software. Getting sharper at system design.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14213d,100:0d7377&height=120&section=footer" width="100%"/>
