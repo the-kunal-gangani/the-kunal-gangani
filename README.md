@@ -197,7 +197,7 @@ Building genuinely useful AI-powered software. Getting sharper at system design.
 
 *Rebuilt from zero, patched for everything they missed the first time.*
 
-> **You can hack an account. You can't hack the spirit that codes.**
+> **Rebuild it. Just the way it was, commit for commit.**
 
 </div>
 
