@@ -166,9 +166,6 @@ Long-term goal: build things that are **secure by default**, not secure by patch
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=the-kunal-gangani&theme=react-dark&hide_border=true&bg_color=0d1117)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=the-kunal-gangani&show_icons=true&theme=react&hide_border=true&bg_color=0d1117"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-kunal-gangani&layout=compact&theme=react&hide_border=true&bg_color=0d1117"/>
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=the-kunal-gangani&theme=react&hide_border=true&background=0d1117)
 
 </div>
