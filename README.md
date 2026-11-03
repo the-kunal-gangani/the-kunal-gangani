@@ -183,7 +183,7 @@ Long-term goal: build things that are **secure by default**, not secure by patch
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=the-kunal-gangani&theme=react&hide_border=true&background=0d1117)
+<img src="https://streak-stats.demolab.com/?user=the-kunal-gangani&theme=react&hide_border=true&background=0d1117&v=2" alt="GitHub Streak" width="650"/>
 
 </div>
 
